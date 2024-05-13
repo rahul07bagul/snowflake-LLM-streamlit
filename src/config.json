@@ -1,0 +1,11 @@
+{
+    "SNOWFLAKE_ACCOUNT": "",
+    "SNOWFLAKE_HOST": "",
+    "SNOWFLAKE_DATABASE": "",
+    "SNOWFLAKE_SCHEMA": "",
+    "SNOWFLAKE_USER": "",
+    "SNOWFLAKE_PASSWORD": "",
+    "SNOWFLAKE_ROLE": "",
+    "SNOWFLAKE_WAREHOUSE": "",
+    "LLAMA2_MODEL": ""
+}
